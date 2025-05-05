@@ -13,7 +13,7 @@ An interactive Power BI report that visualizes insights from a survey of data pr
 
 
 ## 📁 File
-- `Data Professionals Survey Dashboard.pbix`
+- https://drive.google.com/file/d/10oJcEUtyDLS9x56-Y6Bbaybie0v6DyFQ/view?usp=sharing
 
 
 ## 🖼️ Screenshots
